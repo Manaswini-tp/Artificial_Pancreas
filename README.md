@@ -57,9 +57,9 @@ After pump: 389
 Initial: 694 → Pump ON
 After pump: 395
 
-Before average = (701+698+694+694+695+698+702+703+700) ÷ 9 = 698.3
-After average = (398+389+395+417+395+408+396+411+394) ÷ 9 = 400.3
-Drop = 298 points (≈42.7% reduction)
+-Before average = (701+698+694+694+695+698+702+703+700) ÷ 9 = 698.3
+-After average = (398+389+395+417+395+408+396+411+394) ÷ 9 = 400.3
+-Drop = 298 points (≈42.7% reduction)
 
 The system consistently responded by adding "insulin" (tap water) whenever glucose was high, successfully lowering the reading by ~300 points each time.
 
